@@ -11,3 +11,7 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git helloworld https://github.com/jtzx082/helloworld.git
 src-git kenzok8 https://github.com/jtzx082/openwr_packages.git
 src-git small https://github.com/jtzx082/small.git
+src-git aliyun1 https://github.com/honwen/aliyun-ddns-cli.git
+src-git aliyun2 https://github.com/honwen/luci-app-aliddns.git
+src-git rufengsuixing https://github.com/rufengsuixing/luci-app-syncdial.git
+src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall.git
